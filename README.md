@@ -47,7 +47,7 @@ These can cause problems or aren’t useful for beginners:
 
 ---
 
-### Things to watch out For
+### Things to watch out for
 
 - **Malware disguised as “developer tools”** - Always download from official websites
 - **YouTube tutorials that skip explanations**, they can leave you confused later
@@ -59,13 +59,13 @@ These can cause problems or aren’t useful for beginners:
 
 ---------------------------------------------------------
 
-## The Basics & Languages
+## The basics & languages
 
 Before you start typing code, it’s important to understand **what coding is** and **what tools (languages) you can use**.
 
 ---
 
-### 🧠 The Basics
+### The basics
 
 Coding is the process of giving instructions to a computer so it can do tasks.  
 You write these instructions in a specific **programming language**, which follows its own rules and syntax.  
@@ -80,7 +80,7 @@ Here are some key concepts every beginner should know:
 
 ---
 
-### Languages 101
+### Languages
 
 Not all programming languages are the same; they’re like different tools for different jobs.  
 
@@ -96,7 +96,7 @@ Here’s a quick summary of some popular ones:
 
 ---
 
-### Choosing Your First Language
+### Choosing your first language
 
 If you’re just starting:  
 - **Python** is the easiest for beginners and great for learning logic
@@ -300,7 +300,7 @@ Now that you’ve learned the basics and written your first program:
 6. **Collab** - Team up with friends or online communities to work on projects
 7. **Document your journey** - Keep a GitHub repo or blog to track your skills, growth, etc
 
-💬 *Remember: coding is a skill built over time — consistency beats speed.*
+*Remember: coding is a skill built over time — consistency beats speed.*
 
 ---------------------------------------------------------
 
